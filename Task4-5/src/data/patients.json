@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Иван",
+    "surname": "Иванов",
+    "age": 30,
+    "gender": "M",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Анна",
+    "surname": "Смирнова",
+    "age": 25,
+    "gender": "F",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Сергей",
+    "surname": "Петров",
+    "age": 45,
+    "gender": "M",
+    "kids": 3,
+    "vaccinated": true
+  },
+  {
+    "name": "Мария",
+    "surname": "Кузнецова",
+    "age": 32,
+    "gender": "F",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Дмитрий",
+    "surname": "Сидоров",
+    "age": 50,
+    "gender": "M",
+    "kids": 4,
+    "vaccinated": false
+  },
+  {
+    "name": "Екатерина",
+    "surname": "Федорова",
+    "age": 29,
+    "gender": "F",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Александр",
+    "surname": "Морозов",
+    "age": 40,
+    "gender": "M",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Елена",
+    "surname": "Васильева",
+    "age": 35,
+    "gender": "F",
+    "kids": 3,
+    "vaccinated": true
+  },
+  {
+    "name": "Виктор",
+    "surname": "Лебедев",
+    "age": 28,
+    "gender": "M",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Ольга",
+    "surname": "Зайцева",
+    "age": 38,
+    "gender": "F",
+    "kids": 2,
+    "vaccinated": false
+  },
+  {
+    "name": "Максим",
+    "surname": "Ковалев",
+    "age": 33,
+    "gender": "M",
+    "kids": 1,
+    "vaccinated": true
+  },
+  {
+    "name": "София",
+    "surname": "Соколова",
+    "age": 27,
+    "gender": "F",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Николай",
+    "surname": "Григорьев",
+    "age": 42,
+    "gender": "M",
+    "kids": 3,
+    "vaccinated": false
+  },
+  {
+    "name": "Анастасия",
+    "surname": "Романова",
+    "age": 31,
+    "gender": "F",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Матвей",
+    "surname": "Павлов",
+    "age": 36,
+    "gender": "M",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Юлия",
+    "surname": "Никитина",
+    "age": 26,
+    "gender": "F",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Денис",
+    "surname": "Дергач",
+    "age": 39,
+    "gender": "M",
+    "kids": "4",
+    "vaccinated": false
+  },
+  {
+    "name": "Ксения",
+    "surname": "Семенова",
+    "age": 34,
+    "gender": "F",
+    "kids": "3",
+    "vaccinated": true
+  },
+  {
+    "name": "Георгий",
+    "surname": "Калинин",
+    "age": 29,
+    "gender": "M",
+    "kids": "2",
+    "vaccinated": true
+  },
+  {
+    "name": "Татьяна",
+    "surname": "Ларионова",
+    "age": 24,
+    "gender": "F",
+    "kids": "0",
+    "vaccinated": false
+  },
+  {
+    "name": "Артем",
+    "surname": "Мишин",
+    "age": 47,
+    "gender": "M",
+    "kids": "1",
+    "vaccinated": true
+  },
+  {
+    "name": "Вероника",
+    "surname": "Тихонова",
+    "age": 30,
+    "gender": "F",
+    "kids": "2",
+    "vaccinated": false
+  },
+  {
+    "name": "Станислав",
+    "surname": "Филиппов",
+    "age": 41,
+    "gender": "M",
+    "kids": "0",
+    "vaccinated": true
+  },
+  {
+    "name": "Дарья",
+    "surname": "Кудряшова",
+    "age": 23,
+    "gender": "F",
+    "kids": "2",
+    "vaccinated": false
+  },
+  {
+    "name": "Кирилл",
+    "surname": "Шевченко",
+    "age": 49,
+    "gender": "M",
+    "kids": "1",
+    "vaccinated": true
+  },
+  {
+    "name": "Роман",
+    "surname": "Волков",
+    "age": 34,
+    "gender": "M",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Наталья",
+    "surname": "Соловьева",
+    "age": 29,
+    "gender": "F",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Игорь",
+    "surname": "Лебедев",
+    "age": 45,
+    "gender": "M",
+    "kids": 3,
+    "vaccinated": true
+  },
+  {
+    "name": "Оксана",
+    "surname": "Петрова",
+    "age": 31,
+    "gender": "F",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Алексей",
+    "surname": "Козлов",
+    "age": 40,
+    "gender": "M",
+    "kids": 4,
+    "vaccinated": false
+  },
+  {
+    "name": "Елизавета",
+    "surname": "Громова",
+    "age": 26,
+    "gender": "F",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Станислав",
+    "surname": "Федоров",
+    "age": 38,
+    "gender": "M",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Анжелика",
+    "surname": "Сидорова",
+    "age": 33,
+    "gender": "F",
+    "kids": 3,
+    "vaccinated": true
+  },
+  {
+    "name": "Владимир",
+    "surname": "Белов",
+    "age": 48,
+    "gender": "M",
+    "kids": 0,
+    "vaccinated": true
+  },
+  {
+    "name": "Кристина",
+    "surname": "Кузнецова",
+    "age": 27,
+    "gender": "F",
+    "kids": 2,
+    "vaccinated": false
+  },
+  {
+    "name": "Денис",
+    "surname": "Тихонов",
+    "age": 39,
+    "gender": "M",
+    "kids": 1,
+    "vaccinated": true
+  },
+  {
+    "name": "Юлия",
+    "surname": "Филиппова",
+    "age": 24,
+    "gender": "F",
+    "kids": 0,
+    "vaccinated": false
+  },
+  {
+    "name": "Григорий",
+    "surname": "Семенов",
+    "age": 42,
+    "gender": "M",
+    "kids": 2,
+    "vaccinated": true
+  },
+  {
+    "name": "Светлана",
+    "surname": "Орлова",
+    "age": 36,
+    "gender": "F",
+    "kids": 1,
+    "vaccinated": false
+  },
+  {
+    "name": "Ярослав",
+    "surname": "Мудрый",
+    "age": 30,
+    "gender": "M",
+    "kids": "3",
+    "vaccinated": true
+  },
+  {
+    "name": "Людмила",
+    "surname": "Куликова",
+    "age": 28,
+    "gender": "F",
+    "kids": "0",
+    "vaccinated": false
+  },
+  {
+    "name": "Максим",
+    "surname": "Егоров",
+    "age": 35,
+    "gender": "M",
+    "kids": "2",
+    "vaccinated": true
+  },
+  {
+    "name": "Анастасия",
+    "surname": "Захарова",
+    "age": 32,
+    "gender": "F",
+    "kids": "1",
+    "vaccinated": false
+  },
+  {
+    "name": "Петр",
+    "surname": "Климов",
+    "age": 44,
+    "gender": "M",
+    "kids": "3",
+    "vaccinated": true
+  },
+  {
+    "name": "Татьяна",
+    "surname": "Мельникова",
+    "age": 29,
+    "gender": "F",
+    "kids": "0",
+    "vaccinated": true
+  },
+  {
+    "name": "Виктор",
+    "surname": "Савельев",
+    "age": 41,
+    "gender": "M",
+    "kids": "2",
+    "vaccinated": false
+  },
+  {
+    "name": "Ольга",
+    "surname": "Григорьева",
+    "age": 37,
+    "gender": "F",
+    "kids": "1",
+    "vaccinated": true
+  },
+  {
+    "name": "Артемий",
+    "surname": "Федосеев",
+    "age": 26,
+    "gender": "M",
+    "kids": "0",
+    "vaccinated": false
+  },
+  {
+    "name": "Маргарита",
+    "surname": "Ширяева",
+    "age": 33,
+    "gender": "F",
+    "kids": "3",
+    "vaccinated": true
+  },
+  {
+    "name": "Евгения",
+    "surname": "Кузьмина",
+    "age": 31,
+    "gender": "F",
+    "kids": "0",
+    "vaccinated": false
+  }
+]

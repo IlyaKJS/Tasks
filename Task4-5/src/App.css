@@ -1,0 +1,95 @@
+.app-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.table-head-cell {
+  background: #eee;
+  cursor: pointer;
+  padding: 8px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.table-body .table-cell,
+.table-row .table-cell {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.filter-form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.filter-input {
+  padding: 6px;
+  font-size: 14px;
+  width: 150px;
+}
+
+.filter-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.pagination-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination-select {
+  padding: 6px;
+  font-size: 14px;
+}
+
+.pagination-list-wrapper {
+  list-style: none;
+  display: flex;
+  gap: 6px;
+  padding: 0;
+  margin: 0;
+}
+
+.pagination-list-item {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  user-select: none;
+  background-color: #f9f9f9;
+  transition: background-color 0.2s;
+}
+
+.pagination-list-item:hover {
+  background-color: #e6e6e6;
+}
+
+.pagination-list-item.active {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.pagination-list-item:disabled,
+.pagination-list-item.disabled {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: default;
+}
